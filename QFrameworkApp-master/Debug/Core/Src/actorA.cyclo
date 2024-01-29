@@ -1,0 +1,3 @@
+../Core/Src/actorA.c:40:6:actorA_ctor	1
+../Core/Src/actorA.c:47:8:actorA_initial	1
+../Core/Src/actorA.c:131:8:actorA_S00	24

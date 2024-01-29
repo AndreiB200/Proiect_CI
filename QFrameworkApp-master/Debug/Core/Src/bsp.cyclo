@@ -1,0 +1,5 @@
+../Core/Src/bsp.c:55:6:BSP_init	1
+../Core/Src/bsp.c:67:6:QF_onStartup	1
+../Core/Src/bsp.c:73:6:QF_onCleanup	1
+../Core/Src/bsp.c:77:6:QV_onIdle	1
+../Core/Src/bsp.c:82:12:Q_onAssert	1
